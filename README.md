@@ -11,7 +11,7 @@ CSS <br>
 
 ## 🚀 App no ar
 
-App no ar:https://effectloading.netlify.app/
+App no ar:https://effectloading.netlify.app/ <br>
 tutorial:https://www.youtube.com/watch?app=desktop&v=ttWXapXj4cg
 
 
