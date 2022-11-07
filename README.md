@@ -1,6 +1,6 @@
 # Effect-Loading
 
-![in Development](https://img.shields.io/badge/Animation%20-%20clock-purple) 
+![in Development](https://img.shields.io/badge/Animation%20-%20Loading-purple) 
 
 
 🛠️Construído com
