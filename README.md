@@ -13,12 +13,12 @@ Loading effect, as the circle rotates the colors change, seeking to learn throug
 ## Tecnologies used
 ### languages
 - `HTML`
-- `CSS`
+- `CSS`.
 
 ### Tools
 - `VS Code`
 - `GitHub`
-- `Netlify`
+- `Netlify`.
 
 ## Link to access the project
 
