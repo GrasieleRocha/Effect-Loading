@@ -28,7 +28,7 @@ App no ar:https://effectloading.netlify.app/
 tutorial:https://www.youtube.com/watch?app=desktop&v=ttWXapXj4cg
 
 
-## Developer...
+## Developer
 
 [<img src="https://avatars.githubusercontent.com/u/104076058?v=4" width=115><br><sub>Grasiele Rocha</sub>](https://github.com/GrasieleRocha) 
 
